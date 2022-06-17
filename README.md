@@ -1,4 +1,4 @@
-## Isaac Kwong's Digital Business Card
+## Isaac's Digital Business Card
 
 A responsive, mobile-first, digital business card built from scratch in React/JSX/CSS.
 
